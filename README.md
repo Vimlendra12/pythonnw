@@ -1,0 +1,2 @@
+# pythonnw
+new proj idea
